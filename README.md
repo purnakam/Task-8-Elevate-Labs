@@ -9,7 +9,7 @@ Create an interactive dashboard to visualize supermarket sales performance by pr
 
 ## 🛠 Tools Used
 - **Power BI Desktop**
-- *(Optional)* Power Query Editor for data cleaning
+- **Power Query Editor for data cleaning**
 
 ---
 
